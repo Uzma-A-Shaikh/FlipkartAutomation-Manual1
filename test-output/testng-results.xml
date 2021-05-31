@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62501" started-at="2021-05-29T13:40:52Z" finished-at="2021-05-29T13:41:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62501" started-at="2021-05-29T13:40:52Z" finished-at="2021-05-29T13:41:54Z">
+      <class name="com.flipk.tests.FetchIphonesDetails">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.flipk.tests.FetchIphonesDetails@675d3402]" name="beforeTest" is-config="true" duration-ms="8182" started-at="2021-05-29T13:40:52Z" finished-at="2021-05-29T13:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.flipk.tests.FetchIphonesDetails@675d3402]" name="f" duration-ms="49527" started-at="2021-05-29T13:41:00Z" finished-at="2021-05-29T13:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.flipk.tests.FetchIphonesDetails@675d3402]" name="afterTest" is-config="true" duration-ms="4732" started-at="2021-05-29T13:41:50Z" finished-at="2021-05-29T13:41:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.flipk.tests.FetchIphonesDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
